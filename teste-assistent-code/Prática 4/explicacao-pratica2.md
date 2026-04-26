@@ -67,7 +67,7 @@ if __name__ == "__main__":
 
 ##Codigo da prática 2 refatorado.
 
-## Explicação Linha por Linha
+## Explicação Linha por Linha do Codigo da prática 2 refatorado.
 
 1. **`import math`**  
    Importa o módulo `math` para utilizar `math.pi` (constante Pi ≈ 3.14159) em cálculos geométricos.
